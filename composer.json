@@ -1,0 +1,12 @@
+{
+    "name": "empire/ping",
+    "license": "MIT",
+    "require": {
+        "miraiportal/ping": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Empire\\Ping\\": "src/"
+        }
+    }
+}
